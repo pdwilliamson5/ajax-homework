@@ -1,0 +1,22 @@
+
+
+#buttonsArea{
+	color:green;
+	background-color: green;
+	border-radius: .5;
+}
+
+
+#tv{
+	width:500px;
+	height: 500px;
+	position: relative;
+}
+#searches{
+	position: absolute;
+}
+#screen{
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+}

@@ -1,0 +1,61 @@
+.jumbotron{
+	color:white;
+	border-radius: 25px;
+	text-align: center;
+	height:100%;
+	background: linear-gradient(green, yellow);
+	
+}
+
+#buttonsArea{
+	border-radius: 15px;
+	color:green;
+	background-color: green;
+	border-radius: .5;
+}
+
+.col-xs-12{
+	width:500px;
+	height: 500px;
+}
+
+}
+#televison{
+	background-image: url("assets/images/televison.png");
+	width: 400px;
+	height: 400px;
+}
+	
+
+}
+#searches{
+	display: inline-block;
+	
+}
+input[type="text"] {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+button,
+input[type="submit"] {
+  padding: 5px 20px 5px;
+ 
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  background: orange;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px black;
+}
+
+button:hover,
+input[type="submit"]:hover {
+  background: #ff9966;
+}
+button.active {
+  background:#ff9966;
+}
